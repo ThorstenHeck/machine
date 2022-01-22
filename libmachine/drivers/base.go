@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	DefaultSSHUser          = "root"
+	DefaultSSHUser          = "test"
 	DefaultSSHPort          = 22
 	DefaultEngineInstallURL = "https://get.docker.com"
 )
